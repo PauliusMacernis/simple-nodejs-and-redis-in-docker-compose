@@ -1,6 +1,6 @@
 # A simple NodeJS+Redis application in docker-compose
 
-A simple NodeJS+Redis application in docker-compose.  
+A simple NodeJS+Redis application in Docker containers made by docker-compose.  
 
 Following first 5 (of 19) sections in  
 https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/
